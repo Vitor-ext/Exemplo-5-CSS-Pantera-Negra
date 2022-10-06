@@ -18,7 +18,7 @@ body{
 @media (max-width:768px) {
     body{
         padding: 30px 30px 25px 30px;
-        background-image: url(../img/BG-CELL);
+        background-image: url(../img/BG-CELL.png);
         background-color: #0006;
         background-blend-mode: darken;
     }
